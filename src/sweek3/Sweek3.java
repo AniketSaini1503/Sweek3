@@ -14,7 +14,9 @@ public class Sweek3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("learning github operations");// TODO code application logic here
+        System.out.println("learning github operations");
+System.out.println("learning fetchmerge operations");
+// TODO code application logic here
     }
     
 }
