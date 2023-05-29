@@ -16,6 +16,7 @@ public class Sweek3 {
     public static void main(String[] args) {
         System.out.println("learning github operations");
 System.out.println("learning fetchmerge operations");
+System.out.println("learning git operations");
 // TODO code application logic here
     }
     
